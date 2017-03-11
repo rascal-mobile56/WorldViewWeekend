@@ -1,0 +1,17 @@
+/*
+    Document   : overrides
+    Created on : Sep 11, 2014, 12:54:07 PM
+    Author     : rjdjohnston
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.ui-listview .meta {
+  font-size: 0.50em;
+}
+.loader {
+  background: #fff url('images/blue-loader64x64.gif') no-repeat 45% 20%;
+}
+#signup-button li a{
+  font-size: 1em;
+}
